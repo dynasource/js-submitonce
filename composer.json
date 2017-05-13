@@ -1,0 +1,19 @@
+{
+  "name": "dmn/js-submitonce",
+  "description": "Protects forms to be submitted twice",
+  "keywords": [
+    "js",
+    "vanilla",
+    "forms"
+  ],
+  "homepage": "http://www.dynasource.eu/",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Boudewijn Vahrmeijer",
+      "email": "info@dynasource.eu",
+      "homepage": "http://dynasource.eu",
+      "role": "creator"
+    }
+  ]
+}
