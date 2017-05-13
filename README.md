@@ -5,7 +5,7 @@ When double submission does occur (i.e. because of double clicking), unwanted si
  * multiple actions such as i.e. sending duplicate emails
  * thrown exceptions as systems could not expect certain actions to be executed twice
  
-This "Js-SubmitOnce" script is a plain JS vanilla script to prevent this unwanted behavior.
+This "Js-SubmitOnce" script is a plain JS vanilla script to prevent this undesired behavior.
 
 Installation
 ------------
