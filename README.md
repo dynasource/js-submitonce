@@ -1,3 +1,6 @@
+Vanilla JS form submit once protection
+-----------
+
 Forms usually need to be submitted once. 
 
 When double submission does occur (i.e. because of double clicking), unwanted side effect can occur:
