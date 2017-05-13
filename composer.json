@@ -1,5 +1,5 @@
 {
-  "name": "dmn/js-submitonce",
+  "name": "dynasource/js-submitonce",
   "description": "Protects forms to be submitted twice",
   "keywords": [
     "js",

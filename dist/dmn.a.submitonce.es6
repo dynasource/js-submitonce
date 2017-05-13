@@ -1,9 +1,3 @@
-window.addEventListener('load', function () {
-    new SubmitOnce({
-        'selector': 'btn'
-    });
-});
-
 /**
  * SubmitOnce prevents multiple formsubmissions
  */
